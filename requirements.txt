@@ -1,0 +1,8 @@
+streamlit
+torch
+torchvision
+timm
+opencv-python-headless
+mediapipe==0.10.14
+Pillow
+numpy
